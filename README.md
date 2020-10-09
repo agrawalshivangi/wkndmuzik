@@ -1,8 +1,7 @@
 # WKNDMUZIK Project for AEM Lean Code Contest
 
-This is a project for AEM application.  
+This is a project for AEM application, created using AEM Archetype 23 and tested on AEM 6.5 with latest service pack.    
 It is built using Digital Foundation Blueprint’s set of best practices and core components which can further be extended to develop more custom functionality.  
-This project is created using AEM Archetype 23 and tested on AEM 6.5 with latest service pack.
 
 ## Features
 
