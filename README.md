@@ -1,6 +1,7 @@
 # WKNDMUZIK Project for AEM Lean Code Contest
 
-This is a project for AEM application. It is built using Digital Foundation Blueprint’s set of best practices and core components which can further be extended to develop more custom functionality.
+This is a project for AEM application.  
+It is built using Digital Foundation Blueprint’s set of best practices and core components which can further be extended to develop more custom functionality.  
 This project is created using AEM Archetype 23 and tested on AEM 6.5 with latest service pack.
 
 ## Features
@@ -54,10 +55,10 @@ Or to deploy only a single content package, run in the sub-module directory (i.e
 
 ## Testing
 
-* unit test in core: this show-cases classic unit testing of the code contained in the bundle. To test, execute:
+Unit test in core: this show-cases classic unit testing of the code contained in the bundle. To test, execute:
 
     mvn clean test
-	
+
 ### Building wkndmuzik wireframes content
 
 By default, wireframes content for the contest from `ui.content` will be deployed and will merge with any authored content during each build. If you wish to cleanly re-set an environment, modify the [filter.xml](ui.content/src/main/content/META-INF/vault/filter.xml) file and remove the `mode=merge` attribute to cleanly overwrite the paths.
@@ -74,7 +75,7 @@ http://localhost:4502/editor.html/content/wkndmuzik/us/en/sign-up.html
 http://localhost:4502/editor.html/content/wkndmuzik/us/en/confirmation.html
 
 ### Publish urls to access wkndmuzik wireframe pages
-http://localhost:4503/content/wkndmuzik/us/en.html
+http://localhost:4503/content/wkndmuzik/us/en.html  
 http://localhost:4503/content/wkndmuzik/us/en/learn-more.html
 http://localhost:4503/content/wkndmuzik/us/en/sign-up.html
 http://localhost:4503/content/wkndmuzik/us/en/confirmation.html
