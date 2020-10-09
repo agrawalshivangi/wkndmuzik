@@ -5,7 +5,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="1cecc1fd-d75c-40c0-8079-be5dd46267b4">
     <jcr:content
-        cq:name="Summertime. Young female musician, DJ, portrait of artist.png"
+        cq:name="Female-musician.png"
         cq:parentPath="/content/dam/wkndmuzik/media"
         dam:assetState="processed"
         jcr:lastModified="{Date}2020-09-10T05:46:48.855Z"

@@ -226,7 +226,7 @@
                                     sling:resourceType="wkndmuzik/components/teaser"
                                     actionsEnabled="false"
                                     descriptionFromPage="false"
-                                    fileReference="/content/dam/wkndmuzik/media/Young african-american jazz musician playing guy improvising.png"
+                                    fileReference="/content/dam/wkndmuzik/media/Young-afroamerican-jazz.png"
                                     showsDate="10.21.20"
                                     textIsRich="true"
                                     titleFromPage="false">
@@ -266,7 +266,7 @@
                                     sling:resourceType="wkndmuzik/components/teaser"
                                     actionsEnabled="false"
                                     descriptionFromPage="false"
-                                    fileReference="/content/dam/wkndmuzik/media/Summertime. Young female musician, DJ, portrait of artist.png"
+                                    fileReference="/content/dam/wkndmuzik/media/Female-musician.png"
                                     showsDate="12.21.20"
                                     textIsRich="true"
                                     titleFromPage="false">
@@ -316,7 +316,7 @@
                                     sling:resourceType="wkndmuzik/components/teaser"
                                     actionsEnabled="false"
                                     descriptionFromPage="false"
-                                    fileReference="/content/dam/wkndmuzik/media/Summertime. Young female musician in headphones DJ, portrait of artist-1.png"
+                                    fileReference="/content/dam/wkndmuzik/media/DJ-portrait.png"
                                     showsDate="10.01.20"
                                     textIsRich="true"
                                     titleFromPage="false">
@@ -356,7 +356,7 @@
                                     sling:resourceType="wkndmuzik/components/teaser"
                                     actionsEnabled="false"
                                     descriptionFromPage="false"
-                                    fileReference="/content/dam/wkndmuzik/media/Young caucasian musicians, band performing on rtist. Attented and inspired. Art, cover band.png"
+                                    fileReference="/content/dam/wkndmuzik/media/Young-caucasian-musicians.png"
                                     showsDate="12.21.20"
                                     textIsRich="true"
                                     titleFromPage="false">

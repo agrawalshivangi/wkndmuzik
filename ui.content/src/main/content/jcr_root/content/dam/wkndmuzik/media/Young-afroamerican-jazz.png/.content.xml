@@ -5,7 +5,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="67e8df85-7e66-447d-adf5-048711245a58">
     <jcr:content
-        cq:name="Young african-american jazz musician playing guy improvising.png"
+        cq:name="Young-afroamerican-jazz.png"
         cq:parentPath="/content/dam/wkndmuzik/media"
         dam:assetState="processed"
         jcr:lastModified="{Date}2020-09-10T05:46:44.982Z"

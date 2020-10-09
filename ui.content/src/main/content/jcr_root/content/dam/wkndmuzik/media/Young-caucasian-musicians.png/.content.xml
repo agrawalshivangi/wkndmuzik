@@ -5,7 +5,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="ff767f60-336c-4065-ad9d-0000bbbf72da">
     <jcr:content
-        cq:name="Young caucasian musicians, band performing on rtist. Attented and inspired. Art, cover band.png"
+        cq:name="Young-caucasian-musicians.png"
         cq:parentPath="/content/dam/wkndmuzik/media"
         dam:assetState="processed"
         jcr:lastModified="{Date}2020-09-10T05:46:39.888Z"

@@ -5,7 +5,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="baadc140-7e3c-4b49-a055-554860b7f154">
     <jcr:content
-        cq:name="Watching online concert at home by smartphone. Live stream music video.png"
+        cq:name="Watching-by-smartphone.png"
         cq:parentPath="/content/dam/wkndmuzik/media"
         dam:assetState="processed"
         jcr:lastModified="{Date}2020-09-10T05:46:44.751Z"
